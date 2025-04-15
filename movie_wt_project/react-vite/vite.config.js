@@ -9,5 +9,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "src"),
     },
   },
-  base: "/movie_ticket_deploy/", 
+  base: "/ticket/", 
 });
